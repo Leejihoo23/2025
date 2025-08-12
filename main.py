@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from textwrap import dedent
 
-st.set_page_config(page_title="진로탐색 — 진오의 MBTI 직업 추천", page_icon="🧭", layout="wide")
+st.set_page_config(page_title="진로탐색 — 진로의 MBTI 직업 추천", page_icon="🧭", layout="wide")
 
 # --- Custom CSS ---
 st.markdown(
