@@ -118,3 +118,4 @@ if btn and name:
 elif btn and not name:
     st.warning("이름을 입력해주세요!")
 
+
