@@ -298,3 +298,4 @@ if not df.empty:
     st.download_button("CSV 다운로드", data=csv, file_name="emotions.csv", mime="text/csv")
 
 st.markdown("---")
+st.caption("제작: Streamlit 기반 감정 기록 & 분석 앱 — 수행평가용 예시")
